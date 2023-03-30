@@ -8,3 +8,6 @@
 
 ### Main Repo
 https://github.com/nomic-ai/gpt4all
+
+### Output
+![Screenshot 2023-03-30 213344](https://user-images.githubusercontent.com/54370274/228941980-b2d442d4-51d9-4bae-b02b-137b71b98a27.png)
